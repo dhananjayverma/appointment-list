@@ -17,9 +17,9 @@ The React Appointment Component is a customizable and easy-to-use solution for d
 - json Api 
 With its dynamic data display, customizable styling, loading indicator, and robust error handling, the React Appointment Component is poised to elevate your application's appointment management capabilities to new heights. Incorporate it into your project today to streamline appointment scheduling and enhance user satisfaction
 <hr>
-# Deploy:- <a href="">click here</a>
+# Deploy:- <a href="https://frabjous-dragon-e09023.netlify.app/">click here</a>
 <hr>
 # contributer
-- dhananjay kumar verma
+- dhananjay kumar verma <br>
 - mail :- dhananjayverma088@gmail.com
 
